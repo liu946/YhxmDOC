@@ -13,15 +13,15 @@ get/news		——》17 获取新闻列表 //无需登陆 有额外信息
 图片位置：http://192.168.1.99/yhxm/Uploads/Newsimg/{xxxx.png}
 get/newsinfo		——》18 获取新闻详情 //无需登陆 有额外信息
 get/scoreshop		——》19 获取积分商城列表 //无需登录 
-
+图片位置：http://192.168.1.99/yhxm/Uploads/Scoreshopimg/{xxxx.png}
 		20 兑换积分商城项目 //需要登陆 有额外信息
 
 verify/newpassword		6 更换密码 //需要登陆 有额外信息
 verify/userinfo		7 获取用户信息 //需要登陆
 verify/changeuserinfo		8 更改用户信息 //需要登陆 有额外信息
-		9 获取正在进行的订单列表 //需要登陆
-		10 获取历史订单列表 //需要登陆
-		11 获取订单详情 //需要登录 有额外信息
+verify/indentongoing		9 获取正在进行的订单列表 //需要登陆
+verify/historyindent		10 获取历史订单列表 //需要登陆
+verify/indent		11 获取订单详情 //需要登录 有额外信息
 		13 下单 //需要登陆 有额外信息
 		14 取消订单 //需要登陆 有额外信息
 

@@ -11,17 +11,9 @@ order_id:"123"
     "address":"xxx",
     "lat":1234,
     "lon"1234,
-    "realname":"xxx",
-    "phone":"1234",
     "time":"1994/4/4",
-    "items":[
-        {
-            "item_id":1234,
-            "name":"1234",
-            "price":1234,
-            "img":"1234",
-            "introduction":"1234"
-        }，
+    "items":0|1|2|3|4
+    
         ...
     ]
 }
@@ -30,63 +22,67 @@ order_id:"123"
 {
     "status_code":0|1|2|3|4
     "status":1,
-    "scar_name":"xxx"
-    "scar_id":1234
-    "scar_phone":"1234"
+    'scar':{
+        'id':
+        'name':
+        'phonenum':
+    }
     "address":"xxx",
     "lat":1234,
     "lon"1234,
-    "realname":"xxx",
-    "phone":"1234",
     "time":"1994/4/4",
-    "items":[
-        {
-            "item_id":1234,
-            "name":"1234",
-            "price":1234,
-            "img":"1234",
-            "introduction":"1234"
-        }，
-        ...
-    ]
+    "items":0|1|2|3|4
 }
 ==========================================
 {
     "status_code":0|1|2|3|4
-    "status":2
+    "status":2|3
     "time":"1994/4/4"
-    "scar_name":"xxx"
+    'scar':{
+        'id':
+        'name':
+        'phonenum':
+    }
+    "lat":1234,
+    "lon"1234,
     "address":"xxx",
-    "realname":"xxx",
     "time":"1994/4/4"
-    "items":[
-        {
-            "item_id":1234,
-            "name":"1234",
-            "price":1234,
-            "number":123,
-            "img":"1234"
-            "introduction":"1234"
-        }，
-        ...
-    ]
+    "items": 0|1|2|3|4
 }
 
 ==========================================
 {
     "status_code":0|1|2|3|4
-    "status":3
+    "status":4
+    'scar':{
+        'id':
+        'name':
+        'phonenum':
+    }
+    "car":{
+        "id":"6",
+        "uid":"1",
+        "class":"6",
+        "carid":"#1231231",
+        "name":"abc",
+    }
+    "lat":1234,
+    "lon"1234,
     "time":"1994/4/4"
     "address":"xxx",
-    "realname":"xxx",
     "time":"1994/4/4"
-    "items":[
+    "items": 0|1|2|3|4
+    "good":[
         {
-            "item_id":1234,
-            "name":"1234",
-            "price":1234,
-            "img":"1234"
-            "introduction":"1234"
+              
+              "goodid" : "2",
+              "indentid" : "1",
+              "num" : "23",
+              "cid" : "4",
+              "name" : "淇濆吇2",
+              "unit" : "L",
+              "price" : "20.2",
+              "img" :  "1421215486_1370016117.jpg",
         }，
         ...
     ]

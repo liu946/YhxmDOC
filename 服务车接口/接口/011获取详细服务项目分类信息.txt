@@ -4,14 +4,10 @@ pid:
 回传
 {
     status_code:0|1|2,
-    items:[
+    gooditems:[
+
         {
-            isclass:true //是否是一个分类
-            id:
-            name:
-        },
-        {
-            isclass:false
+            
             id:
             name:
             unit:
@@ -20,5 +16,13 @@ pid:
             introduction:
         }
         ...
+    ],
+    classitem:[
+        {
+            id:
+            name:
+        },
+        ...
     ]
+
 }
