@@ -3,9 +3,8 @@ id:
 name:
 password:
 order_id:
-
+taken:true|false //是否接单
 回传
 {
     status_code:0|1|2
-    taken:true|false //是否接单
 }

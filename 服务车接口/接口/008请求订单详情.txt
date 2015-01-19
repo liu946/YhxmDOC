@@ -13,14 +13,5 @@ order_id:
     "realname":"xxx",
     "phone":"1234",
     "time":"1994/4/4",
-    "items":[
-        {
-            "item_id":1234,
-            "name":"1234",
-            "price":1234,
-            "img":"1234",
-            "introduction":"1234"
-        }，
-        ...
-    ]
+    "items":"阿萨德法师，阿士大夫，秦莞尔，自行车" //用户发来的items对应的，相当于备注
 }
