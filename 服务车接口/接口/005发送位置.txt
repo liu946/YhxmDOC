@@ -1,0 +1,12 @@
+发送
+id:
+name:
+password:
+lat:1234.1234
+lng:1234.1234
+
+
+回传
+{
+    status_code:0|1|2
+}
