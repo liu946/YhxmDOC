@@ -1,0 +1,14 @@
+发送
+pid:
+
+回传
+{
+    status_code:0|1|2
+    items:[
+        {
+            id:
+            name:
+        },
+        ...
+    ]
+}

@@ -1,0 +1,14 @@
+发送
+id:
+name:
+password:
+status:0|1|2|3
+lat:1234.1234
+lng:1234.1234
+
+
+回传
+{
+    status_code:0|1|2
+    need_refresh:true|false //与服务器上状态不统一
+}

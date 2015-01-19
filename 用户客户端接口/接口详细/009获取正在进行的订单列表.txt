@@ -1,0 +1,17 @@
+发送
+id:1234
+phonenum:"1234"
+password:"1234"
+
+回传
+{
+    "status_code":0|1|2|3|4,
+    "orders":[
+        {
+            order_id:1234
+            time:"1994/4/4"
+            status:0|1
+        },
+        ...
+    ]
+}

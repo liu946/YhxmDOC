@@ -1,0 +1,93 @@
+发送
+id:1234
+phonenum:"1234"
+password:"1234"
+order_id:"123"
+
+回传
+{
+    "status_code":0|1|2|3|4
+    "status":0,
+    "address":"xxx",
+    "lat":1234,
+    "lon"1234,
+    "realname":"xxx",
+    "phone":"1234",
+    "time":"1994/4/4",
+    "items":[
+        {
+            "item_id":1234,
+            "name":"1234",
+            "price":1234,
+            "img":"1234",
+            "introduction":"1234"
+        }，
+        ...
+    ]
+}
+
+===================================
+{
+    "status_code":0|1|2|3|4
+    "status":1,
+    "scar_name":"xxx"
+    "scar_id":1234
+    "scar_phone":"1234"
+    "address":"xxx",
+    "lat":1234,
+    "lon"1234,
+    "realname":"xxx",
+    "phone":"1234",
+    "time":"1994/4/4",
+    "items":[
+        {
+            "item_id":1234,
+            "name":"1234",
+            "price":1234,
+            "img":"1234",
+            "introduction":"1234"
+        }，
+        ...
+    ]
+}
+==========================================
+{
+    "status_code":0|1|2|3|4
+    "status":2
+    "time":"1994/4/4"
+    "scar_name":"xxx"
+    "address":"xxx",
+    "realname":"xxx",
+    "time":"1994/4/4"
+    "items":[
+        {
+            "item_id":1234,
+            "name":"1234",
+            "price":1234,
+            "number":123,
+            "img":"1234"
+            "introduction":"1234"
+        }，
+        ...
+    ]
+}
+
+==========================================
+{
+    "status_code":0|1|2|3|4
+    "status":3
+    "time":"1994/4/4"
+    "address":"xxx",
+    "realname":"xxx",
+    "time":"1994/4/4"
+    "items":[
+        {
+            "item_id":1234,
+            "name":"1234",
+            "price":1234,
+            "img":"1234"
+            "introduction":"1234"
+        }，
+        ...
+    ]
+}

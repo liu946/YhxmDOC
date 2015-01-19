@@ -1,0 +1,28 @@
+发送
+id:
+name:
+password:
+
+
+回传
+{
+    status_code:0|1|2
+    status:0 //等待
+}
+=================
+{
+    status_code:0|1|2
+    status:1 //不服务
+}
+=================
+{
+    status_code:0|1|2
+    status:2 //询问状态
+    ord_id:1234 //询问的订单id
+}
+================
+{
+    status_code:0|1|2
+    status:3 //服务中
+    ord_id:1234
+}

@@ -1,0 +1,9 @@
+发送
+id:1234
+phonenum:"3412"
+password:"1234"
+gift_id:"12"
+回传
+{
+    "status_code":0|1|2
+}

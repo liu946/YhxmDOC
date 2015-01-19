@@ -1,0 +1,26 @@
+发送
+id:
+name:
+password:
+order_id:
+
+回传
+{
+    status_code:0|1|2
+    "address":"xxx",
+    "lat":1234,
+    "lon"1234,
+    "realname":"xxx",
+    "phone":"1234",
+    "time":"1994/4/4",
+    "items":[
+        {
+            "item_id":1234,
+            "name":"1234",
+            "price":1234,
+            "img":"1234",
+            "introduction":"1234"
+        }，
+        ...
+    ]
+}

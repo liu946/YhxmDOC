@@ -1,0 +1,24 @@
+发送
+pid:
+
+回传
+{
+    status_code:0|1|2,
+    items:[
+        {
+            isclass:true //是否是一个分类
+            id:
+            name:
+        },
+        {
+            isclass:false
+            id:
+            name:
+            unit:
+            price:
+            img:
+            introduction:
+        }
+        ...
+    ]
+}

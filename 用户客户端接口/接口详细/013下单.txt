@@ -1,0 +1,15 @@
+发送
+id:1234
+phonenum:"1234"
+password:"1234"
+lat:1234
+lon:1234
+address:"zxc"
+district:"南岗区"
+citycode:"1234" //高德城市编号
+items:"1234,2234,3234,4234"
+
+回传
+{
+    "status_code":0|1|2|3|4
+}

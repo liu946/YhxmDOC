@@ -1,0 +1,16 @@
+发送
+id:
+name:
+password:
+order_id:
+car_class:
+carid:
+desc:
+goods:[12,41,51,51] //good_main 的id
+number:[1.1,3.1,23,1] //数量
+price:1234.123 //实际支付
+
+回传
+{
+    status_code:0|1|2
+}

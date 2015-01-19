@@ -1,0 +1,10 @@
+发送
+id:1234
+phonenum:"1234"
+password:"1234"
+newpassword:"1234"
+
+回传
+{
+    "status_code":0|1|2|3|4
+}
