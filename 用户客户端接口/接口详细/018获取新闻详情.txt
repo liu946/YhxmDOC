@@ -3,7 +3,7 @@ news_id:123
 回传
 {
     "status_code":0|1|2,
-    "title":"asdf",
+    "name":"asdf",
     "img":"1234",
     "content":"asdfasdfasdfasdf"
 }
