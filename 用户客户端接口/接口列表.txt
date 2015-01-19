@@ -22,8 +22,8 @@ verify/changeuserinfo		8 更改用户信息 //需要登陆 有额外信息
 verify/indentongoing		9 获取正在进行的订单列表 //需要登陆
 verify/historyindent		10 获取历史订单列表 //需要登陆
 verify/indent		11 获取订单详情 //需要登录 有额外信息
-		13 下单 //需要登陆 有额外信息
-		14 取消订单 //需要登陆 有额外信息
+verify/order		13 下单 //需要登陆 有额外信息
+verify/cancel		14 取消订单 //需要登陆 有额外信息
 
 		3 请求验证手机 (为了更换手机号码而设置) //需要登陆 有额外信息
 		5 更换手机号码 //需要登陆 有额外信息
