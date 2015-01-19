@@ -3,7 +3,7 @@ id:12341
 phonenum:"1234"
 password:"1234"
 newphone:"1234"
-
+verify_code:"123456" //6位数字
 回传
 {
     "status_code":0|1|2|3|4|5

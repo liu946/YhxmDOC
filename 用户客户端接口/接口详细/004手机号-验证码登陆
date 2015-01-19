@@ -1,0 +1,9 @@
+发送
+phonenum:"1234"
+verify_code:"1234"
+
+回传
+{
+    "status_code":0|1|2|3|4
+    "id":1234
+}
