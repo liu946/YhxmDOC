@@ -5,12 +5,7 @@ get/getpassword		——》1 获取密码 (已有账户得到新设定的密码�
 get/login	——》2 登陆账户 //无需登陆 有额外信息
 
 get/verifylogin		——》4 手机号验证码登陆账户(更改密码版本) //无需登陆 有额外信息
-<<<<<<< Updated upstream
-verify/verifyphonenum		3 请求验证手机 (为了更换密码而设置) //不用登陆 有额外信息
-
-=======
 get/verifyphonenum		3 请求验证手机 (为了忘记密码而设置) //不用登陆 有额外信息 手机可以是注册用户
->>>>>>> Stashed changes
 get/good		——》12 获取保养项目列表 //无需登陆
 get/nearist		——》15 获取最近空闲保养车距离 //无需登陆 有额外信息
 ps:区域值需要比config中的区域定义相同或更完整
