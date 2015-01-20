@@ -11,7 +11,7 @@ order_id:
     "lat":1234,
     "lon"1234,
     "realname":"xxx",
-    "phone":"1234",
+    "phonenum":"1234",
     "time":"1994/4/4",
     "items":"阿萨德法师，阿士大夫，秦莞尔，自行车" //用户发来的items对应的，相当于备注
 }

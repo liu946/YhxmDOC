@@ -1,0 +1,8 @@
+发送
+id:
+name:
+password:
+回传
+{
+    status_code:0|1|2
+}

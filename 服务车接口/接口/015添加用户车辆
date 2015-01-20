@@ -1,0 +1,15 @@
+
+发送
+	id:
+	name:
+	password:	
+	uid://用户id
+	class://车辆分类号
+	carid://车牌号
+	desc://备注
+
+
+回传
+{
+status_code:0|1|2
+}
