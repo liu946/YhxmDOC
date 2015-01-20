@@ -5,7 +5,7 @@
 	password:
 	order_id:
 	carid:
-	goods:[{12:1.1},{41:3.1},{goodid,goodnum}
+	goods:[{12:1.1},{41:3.1}]//{goodid:goodnum}
 	price:1234.12	//实际支付
 
 

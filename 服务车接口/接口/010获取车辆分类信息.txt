@@ -1,4 +1,7 @@
 发送
+id:
+name:
+password:
 pid:
 
 回传
