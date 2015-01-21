@@ -13,7 +13,7 @@ password:
 {
     status_code:0|1|2
     status:2 //服务
-    ord_id:1234 
+    order_id:1234 
 }
 ===================
 
