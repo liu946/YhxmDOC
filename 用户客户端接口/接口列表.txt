@@ -15,7 +15,8 @@ get/news		——》17 获取新闻列表 //无需登陆 有额外信息
 get/newsinfo		——》18 获取新闻详情 //无需登陆 有额外信息
 get/scoreshop		——》19 获取积分商城列表 //无需登录 
 图片位置：http://192.168.1.99/yhxm/Uploads/Scoreshopimg/{xxxx.png}
-		20 兑换积分商城项目 //需要登陆 有额外信息
+
+verify/scoreconvert		20 兑换积分商城项目 //需要登陆 有额外信息
 
 verify/newpassword		6 更换密码 //需要登陆 有额外信息
 verify/userinfo		7 获取用户信息 //需要登陆
@@ -29,5 +30,5 @@ verify/cancel		14 取消订单 //需要登陆 有额外信息
 
 verify/changephonenum		5 更换手机号码 //需要登陆 有额外信息
 verify/verifyphonenum	// 	21 请求验证手机 (为了更换手机而设置) //需要登陆 有额外信息 新手机不能是注册用户
-
+verify/updategetuicid		更新个推CID
 
