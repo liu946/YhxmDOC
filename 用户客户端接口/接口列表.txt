@@ -32,3 +32,4 @@ verify/changephonenum		5 更换手机号码 //需要登陆 有额外信息
 verify/verifyphonenum	// 	21 请求验证手机 (为了更换手机而设置) //需要登陆 有额外信息 新手机不能是注册用户
 verify/updategetuicid		更新个推CID
 
+verify/preorder 22 预约

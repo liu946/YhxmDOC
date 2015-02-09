@@ -8,7 +8,8 @@ address:"zxc"
 district:"南岗区"
 citycode:"1234" //高德城市编号
 items:"阿士大夫,换机油,换手纸,此处是备注不啦不啦不啦"
-
+status:'REQ'|'PREORDER' //即时订单|预约
+time:'2013-10-15 23:50' //预约需要有这个字段
 回传
 {
     "status_code":0|1|2|3|4
