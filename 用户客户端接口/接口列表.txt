@@ -14,6 +14,9 @@ get/news		——》17 获取新闻列表 //无需登陆 有额外信息
 图片位置：http://192.168.1.99/yhxm/Uploads/Newsimg/{xxxx.png}
 get/newsinfo		——》18 获取新闻详情 //无需登陆 有额外信息
 get/scoreshop		——》19 获取积分商城列表 //无需登录 
+get/quickorder		--> 22 快速订单，//无需登陆
+
+
 图片位置：http://192.168.1.99/yhxm/Uploads/Scoreshopimg/{xxxx.png}
 
 verify/scoreconvert		20 兑换积分商城项目 //需要登陆 有额外信息
