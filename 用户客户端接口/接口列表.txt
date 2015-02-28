@@ -15,7 +15,7 @@ get/news		——》17 获取新闻列表 //无需登陆 有额外信息
 get/newsinfo		——》18 获取新闻详情 //无需登陆 有额外信息
 get/scoreshop		——》19 获取积分商城列表 //无需登录 
 get/quickorder		--> 22 快速订单，//无需登陆
-
+get/verifysignup	--> 23 新注册，可以直接设置密码
 
 图片位置：http://192.168.1.99/yhxm/Uploads/Scoreshopimg/{xxxx.png}
 
