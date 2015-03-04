@@ -9,7 +9,8 @@ page:0|1|2.....
             "id":1234,
             "name":"asdf",
             "img":"1234",
-            "introduction":"1234"//新闻前100字
+            "introduction":"1234",//新闻前100字
+            "time":
         },
         ...
     ]
