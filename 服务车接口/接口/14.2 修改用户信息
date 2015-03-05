@@ -1,0 +1,12 @@
+14.2 修改用户信息
+发送
+id:1234
+name:"1234"
+password:"1234"
+uid: '123'
+realname:"xxx" | qq:'123'
+
+回传
+{
+    "status_code":0|1|2|3|4
+}

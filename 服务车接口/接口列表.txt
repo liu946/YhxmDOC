@@ -24,6 +24,7 @@ finishindent	12.完成订单 //需要登录 有额外信息
 cancelindent	13.取消订单(接单后) //需要登录 有额外信息
 getusercars		14.查看用户车辆
 userinfo        14.1 获得用户信息
+changeuserinfo  14.2 获得用户信息
 addusercar		15.添加用户车辆
 changeusercar   15.5 修改用户车辆
 
