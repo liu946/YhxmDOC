@@ -1,6 +1,8 @@
 //父路径
 192.168.1.99:80/yhxm/index.php/Server/
 
+
+get/version 0.获得版本号
 get/getpassword		——》1 获取密码 (已有账户得到新设定的密码，没有账户建立账户) //无需登陆 有额外信息
 get/login	——》2 登陆账户 //无需登陆 有额外信息
 

@@ -1,7 +1,7 @@
 //父路径
 192.168.1.99:80/yhxm/index.php/Server/Sget
 
-
+version 0.获得版本号
 login	1.登录 //无需登录 有额外信息
 
 
