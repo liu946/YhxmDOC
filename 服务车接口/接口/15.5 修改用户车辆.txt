@@ -1,0 +1,18 @@
+15.5 修改用户车辆
+
+
+发送
+	id:
+	name:
+	password:	
+	cid: 用户车辆id
+	class://车辆分类号
+	carid://车牌号
+	desc://备注
+	km:123123.123
+
+
+回传
+{
+status_code:0|1|2
+}

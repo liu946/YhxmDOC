@@ -12,3 +12,12 @@
 		//其他
 		'RET_WRONGPAGE'=>8,//请求的页面不存在，id,page等错误
 		'RET_NEWORDER'=>9,//有新订单
+
+以下是订单状态信息：
+		'REQ'=>'询问接单中',
+		'ANS'=>'服务车接单',
+		
+		'CANCEL'=>'取消',
+		
+		'FINISH'=>'完成',
+		'PREORDER'=>'预约'
