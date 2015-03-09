@@ -31,6 +31,8 @@ verify/indenthistory		10 获取历史订单列表 //需要登陆
 verify/indent		11 获取订单详情 //需要登录 有额外信息
 verify/order		13 下单 //需要登陆 有额外信息	//支持预约功能
 verify/cancel		14 取消订单 //需要登陆 有额外信息
+	
+verify/allindent	//获取全部订单
 
 
 verify/changephonenum		5 更换手机号码 //需要登陆 有额外信息
