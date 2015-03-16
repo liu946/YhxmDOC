@@ -1,0 +1,13 @@
+获得单个积分商品
+
+goodid:(int)
+
+return 
+good:{
+id 
+name
+scorecost
+img
+desc
+
+}

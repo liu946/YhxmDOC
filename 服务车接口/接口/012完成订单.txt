@@ -7,7 +7,7 @@
 	carid:
 	goods:[{12:1.1},{41:3.1}]//{goodid:goodnum}
 	price:1234.12	//实际支付
-
+	km:(int)//里程
 
 回传
 {
