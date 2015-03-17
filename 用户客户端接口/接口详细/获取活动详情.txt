@@ -1,0 +1,10 @@
+发送
+activity_id:123
+回传
+{
+    "status_code":0|1|2,
+    "name":"asdf",
+    "img":"1234",
+    "time":
+    "content":"asdfasdfasdfasdf"
+}
