@@ -3,6 +3,7 @@ id:
 name:
 password:
 order_id:
+refuse: 拒绝理由（字符串），可为空。
 taken:true|false //是否接单
 回传
 {
