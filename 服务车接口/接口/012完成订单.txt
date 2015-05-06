@@ -8,7 +8,7 @@
 	goods:[{12:{'num':1.1,'discount':0.8},{'num':20,'discount':1}]
 	price:1234.12	//实际支付
 	km:(int)//里程
-
+	disc: (string) //备注
 回传
 {
 status_code:0|1|2
